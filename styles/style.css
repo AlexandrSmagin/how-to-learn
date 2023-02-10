@@ -263,9 +263,6 @@ display: flex;
   margin: 0 auto;
   padding-top: 60px;
   padding-bottom: 40px;
-}
-
-.footer__columns_parents{
   width: 90%;
   justify-content: space-between;
 }
