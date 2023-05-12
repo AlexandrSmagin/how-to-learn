@@ -1,14 +1,5 @@
 
 
-.logo_place_header{
-  position: absolute;
-  top: 30px;
-  left: 64px;
-}
-.logo_place_footer{
-  height: 32px;
-  width: 228px;
-}
 
 
 
@@ -17,38 +8,6 @@
 
 
 
-
-.table__text_theme_dark{
-  color: white;
-}
-
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-  padding: 0;
-}
-
-
-.footer__column_content_copyright{
-  position: relative;
-  flex-basis: 711px;
-  padding: 0;
-  margin: 0;
-}
-
-.footer__column_content_social{
-  flex-direction: column;
-  padding: 0;
-  margin: 0;
-}
-
-.footer__column_content_info{
-  flex-direction: column;
-  padding: 0;
-  margin: 0;
-}
 
 
 
