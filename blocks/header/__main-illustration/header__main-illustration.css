@@ -4,5 +4,6 @@
     width: 765px;
     bottom: 0;
     right: 0;
+    object-fit: cover;
     z-index: 1;
   }
