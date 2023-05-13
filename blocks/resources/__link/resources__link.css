@@ -1,11 +1,4 @@
 .resources__link{
-    height: 38px;
-    width: 270px;
     display: flex;
-    justify-content: center;
-    transition: 0.3s;
+    justify-content: center; 
   }
-
-.resources__link:hover{
-    opacity: 0.6;
-}
